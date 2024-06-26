@@ -1,0 +1,10 @@
+[
+    {
+        "name":"sunset",
+        "type":"horizontal",
+        "colours":[
+            [255,0,0],
+            [255,0,255]
+        ]
+    }
+]

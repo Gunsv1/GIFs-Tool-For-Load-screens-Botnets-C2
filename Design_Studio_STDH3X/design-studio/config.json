@@ -1,0 +1,25 @@
+{
+    "gif":{
+        "braille_threshold":8
+    },
+
+    "box":{
+        "top":{
+            "left":"╔",
+            "middle":"═",
+            "right":"╗"
+        },
+    
+        "middle":{
+            "left":"║",
+            "middle":" ",
+            "right":"║"
+        },
+
+        "bottom":{
+            "left":"╚",
+            "middle":"═",
+            "right":"╝"
+        }
+    }
+}
